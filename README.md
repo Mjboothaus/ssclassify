@@ -1,3 +1,5 @@
+# Project Description
+
 Project for fast.ai course to classify screenshots using computer vision techniques.
 
 ----
